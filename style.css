@@ -1,0 +1,48 @@
+body{
+    background-color: #011F3F;
+    text-align: center;
+}
+.box{
+    margin:auto;
+    /* width: 34%; */
+    padding: 10px;
+}
+.b{
+    padding: 100px;
+    margin: 30px;
+    border-radius: 2em;
+    border-width: 0.6em;
+    border-color:black;
+    border-style:solid;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+/* .b:active{
+    scale: 1.05;
+    opacity: 1.1;
+} */
+.b1{
+    background-color:green;
+}
+.b2{
+    background-color:red;
+}
+.b3{
+    background-color:yellow;
+}
+.b4{
+    background-color:blue;
+}
+.heading{
+    font-family: 'Press Start 2P','cursive';
+    font-size: 50px;
+    color:burlywood;
+}
+.ani{
+    opacity: 70%;
+    scale: 110%;
+}
+.redbg{
+    background-color: red;
+}
+
